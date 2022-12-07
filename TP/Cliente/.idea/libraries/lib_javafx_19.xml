@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib-javafx-19">
+    <CLASSES>
+      <root url="file://$PATH_TO_FX$" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://C:/Program Files/Java/javafx-19-javadoc/javafx.base" />
+      <root url="file://C:/Program Files/Java/javafx-19-javadoc/javafx.controls" />
+      <root url="file://C:/Program Files/Java/javafx-19-javadoc/javafx.fxml" />
+      <root url="file://C:/Program Files/Java/javafx-19-javadoc/javafx.graphics" />
+      <root url="file://C:/Program Files/Java/javafx-19-javadoc/javafx.media" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PATH_TO_FX$" recursive="false" />
+  </library>
+</component>
